@@ -1,0 +1,19 @@
+{
+    "name": "nadirlc/utilities-framework",
+    "type": "library",
+    "description": "Set of Php classes providing utility functions",
+    "keywords": ["utility-classes", "database-abstraction", "email-sender", "docbloc-parser", "log-manager", "template-engine"],
+    "homepage": "https://www.pakjiddat.pk/articles/view/257/utilities-framework",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Nadir Latif",
+            "email": "nadir@pakjiddat.pk",
+            "homepage": "https://www.pakjiddat.pk",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    }
+}
