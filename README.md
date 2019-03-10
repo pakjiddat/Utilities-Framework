@@ -1,3 +1,5 @@
+<p><img src="https://www.pakjiddat.pk/pakjiddat/ui/images/code-editor.png" alt="Utilities Framework" /></p>
+
 <h3>Introduction</h3>
 <p>The Utilities Framework is a set of Php libraries that provide functions such as error handling, logding, emailing, fetching web pages, script profiling, database abstraction, encryption, template engine and more. It requires Php 7.2 and above. The libraries are easy to use and can be used with custom applications and Php Frameworks</p>
 
@@ -56,6 +58,14 @@
   </li>
 </ol>
 
+<p>The following screenshot shows the error message displayed by the error handler component:</p>
+
+<p><img src="https://www.pakjiddat.pk/pakjiddat/ui/images/error-message.png" alt="Error Handler Component" /></p>
+
+<p>The following screenshot shows the MySQL query log displayed by the error handler component as part of the error:</p>
+
+<p><img src="https://www.pakjiddat.pk/pakjiddat/ui/images/mysql-query-log.png" alt="MySQL Query Log" /></p>
+
 <h3 class="mb-4">Installation</h3>
 
 <ol>
@@ -67,7 +77,7 @@
 </li>
 
 <li>
-<h5>Download from GitHub</h5>
+<h5>Download from the <a href='https://github.com/nadirlc/utilities-framework'>Utilities Framework GitHub Repository</a></h5>
 <p>Run the command: <b>git clone https://github.com/nadirlc/utilities-framework.git</b></p>
 </li>
 </ol>
